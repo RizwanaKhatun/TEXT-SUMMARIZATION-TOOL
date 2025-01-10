@@ -36,3 +36,6 @@ The Python script uses **Natural Language Processing (NLP)** techniques to summa
 
 In essence, the script is designed to streamline the process of summarizing long text into short, coherent summaries.
 
+#OUTPUT OF THE TASK
+![Screenshot (6)](https://github.com/user-attachments/assets/2e57afdc-85c4-4953-9f4c-2061ff0acb74)
+
